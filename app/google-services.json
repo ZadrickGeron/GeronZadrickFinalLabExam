@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023521401847",
+    "firebase_url": "https://geronzadrickfinallabexam.firebaseio.com",
+    "project_id": "geronzadrickfinallabexam",
+    "storage_bucket": "geronzadrickfinallabexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023521401847:android:8ef34c3337c5582d",
+        "android_client_info": {
+          "package_name": "zadrick.geron.com.geronzadrickfinallabexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023521401847-uol2u0s31f4nvqhuc3jleu7tqd4roeig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zadrick.geron.com.geronzadrickfinallabexam",
+            "certificate_hash": "96551cf2d4ba0961ee1ea162ddc93d61ba1e25a4"
+          }
+        },
+        {
+          "client_id": "1023521401847-hrjpf8f3msdso7oelgcofm2sqktu7sqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqlHBuay5maLrhqz602g2sDyVQ1Gedgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023521401847-hrjpf8f3msdso7oelgcofm2sqktu7sqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
